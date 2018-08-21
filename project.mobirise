@@ -17,14 +17,14 @@
         "display1Size": "3.4",
         "display2Font": "Montserrat",
         "display2Size": "2.8",
-        "display5Font": "Noto Sans",
+        "display5Font": "Roboto",
         "display5Size": "1.4",
-        "display7Font": "Noto Sans",
+        "display7Font": "Roboto",
         "display7Size": "1",
-        "display4Font": "Noto Sans",
+        "display4Font": "Roboto",
         "display4Size": "1",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
